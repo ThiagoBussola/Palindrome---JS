@@ -4,4 +4,4 @@ You need call the function isPalindrome("yourWord");
 
 <h1>função para verificar se uma palavra é palíndromo ou não </h1>
 
-Você precisa chamar a função isPalindrome("suaPalabra");
+Você precisa chamar a função isPalindrome("suaPalavra");
