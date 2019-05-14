@@ -2,6 +2,6 @@
 
 You need call the function isPalindrome("yourWord");
 
-<h1>função para verificar se uma palavra é palíndromo ou não </h1>
+<h1>Função para verificar se uma palavra é palíndromo ou não </h1>
 
 Você precisa chamar a função isPalindrome("suaPalavra");
