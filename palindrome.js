@@ -14,5 +14,4 @@ function isPalindrome(word){
     }
     
 }
-//reverseWord("thiago");
 isPalindrome("arara");
